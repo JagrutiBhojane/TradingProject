@@ -1,1 +1,1 @@
-# TradingProject task completed
+# TradingProject 
